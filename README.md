@@ -1,18 +1,25 @@
 # Hi, I'm Amit 👋
 
 💻 Learning Python Backend Development
-📊 Building Automation Projects from Scratch
-🚀 Interested in APIs, Databases, and Reporting Systems
+
+🚀 Building Backend and Automation Projects from Scratch
+
+📊 Interested in APIs, Databases, Docker, and Reporting Systems
 
 ---
 
 ## Skills
 
 - Python
+- PostgreSQL
 - SQL
+- Docker
 - Git & GitHub
 - REST APIs
-- Error Handling & Automation
+- Environment Variables
+- Error Handling
+- Database Transactions
+- Automation
 
 ---
 
@@ -20,28 +27,46 @@
 
 ### 🔹 Multi-Crypto Price Tracker
 
-A Python project that fetches real-time cryptocurrency prices using the CoinGecko API.
+A Python backend project that fetches real-time cryptocurrency prices from the CoinGecko API and stores them in PostgreSQL running inside Docker.
 
-Current Features:
-- Fetches Bitcoin, Ethereum, Solana, and BNB prices
-- Modular project structure
+#### Features
+
+- Fetches Bitcoin, Ethereum, Solana, and Binance Coin prices
+- PostgreSQL database integration
+- Dockerized PostgreSQL environment
+- Historical price storage
+- Environment variable configuration
+- Transaction handling using commit and rollback
 - API error handling
-- Timeout protection
+- Request timeout protection
 - Safe JSON parsing
+- Modular project structure
 
-GitHub:
-👉 https://github.com/Amit33a/multi-crypto-price-tracker.git
+#### GitHub Repository
+
+👉 https://github.com/Amit33a/multi-crypto-price-tracker
 
 ---
 
-## Learning Roadmap
+## Currently Learning
 
-- Database Integration (SQLite/PostgreSQL)
-- Logging
-- Retry & Fallback Logic
+- Logging and Monitoring
+- Scheduled Jobs
+- Retry and Fallback Logic
 - Automated Reports
 - Email Notifications
-- Task Scheduling
+- Streamlit Dashboards
+- Backend Project Architecture
+
+---
+
+## 2026 Goals
+
+- Build multiple backend portfolio projects
+- Improve PostgreSQL and Docker skills
+- Learn FastAPI
+- Build reporting and automation systems
+- Prepare for backend development and freelance opportunities
 
 ---
 
