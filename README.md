@@ -2,24 +2,28 @@
 
 💻 Learning Python Backend Development
 
-🚀 Building Backend and Automation Projects from Scratch
+🚀 Building Backend, Automation, and Data Engineering Projects from Scratch
 
-📊 Interested in APIs, Databases, Docker, and Reporting Systems
+📊 Interested in APIs, PostgreSQL, Docker, Automation, and Reporting Systems
 
 ---
 
 ## Skills
 
-- Python
-- PostgreSQL
-- SQL
-- Docker
-- Git & GitHub
-- REST APIs
-- Environment Variables
-- Error Handling
-- Database Transactions
-- Automation
+* Python
+* PostgreSQL
+* SQL
+* Docker & Docker Compose
+* Git & GitHub
+* REST APIs
+* Requests
+* Environment Variables
+* Logging
+* Error Handling
+* Retry Logic
+* Database Transactions
+* Report Generation
+* Automation
 
 ---
 
@@ -27,20 +31,26 @@
 
 ### 🔹 Multi-Crypto Price Tracker
 
-A Python backend project that fetches real-time cryptocurrency prices from the CoinGecko API and stores them in PostgreSQL running inside Docker.
+A production-style Python backend project that fetches real-time cryptocurrency prices from the CoinGecko API, stores them in PostgreSQL running inside Docker, generates reports, logs application activity, and implements retry mechanisms for improved reliability.
 
 #### Features
 
-- Fetches Bitcoin, Ethereum, Solana, and Binance Coin prices
-- PostgreSQL database integration
-- Dockerized PostgreSQL environment
-- Historical price storage
-- Environment variable configuration
-- Transaction handling using commit and rollback
-- API error handling
-- Request timeout protection
-- Safe JSON parsing
-- Modular project structure
+* Fetches Bitcoin, Ethereum, Solana, and Binance Coin prices
+* CoinGecko REST API integration
+* PostgreSQL database integration
+* Dockerized PostgreSQL environment
+* Historical cryptocurrency price storage
+* Automatic database table creation
+* Environment variable configuration
+* Transaction handling using commit and rollback
+* Report generation
+* Report export to text files
+* Centralized logging system
+* API retry mechanism
+* API response validation
+* Timeout and HTTP error handling
+* Safe JSON parsing
+* Modular backend architecture
 
 #### GitHub Repository
 
@@ -50,26 +60,28 @@ A Python backend project that fetches real-time cryptocurrency prices from the C
 
 ## Currently Learning
 
-- Logging and Monitoring
-- Scheduled Jobs
-- Retry and Fallback Logic
-- Automated Reports
-- Email Notifications
-- Streamlit Dashboards
-- Backend Project Architecture
+* Email Automation using SMTP
+* Scheduled Jobs (Cron & Task Scheduler)
+* Production Configuration
+* Streamlit Dashboards
+* Testing with Pytest
+* FastAPI
+* Backend Project Architecture
 
 ---
 
 ## 2026 Goals
 
-- Build multiple backend portfolio projects
-- Improve PostgreSQL and Docker skills
-- Learn FastAPI
-- Build reporting and automation systems
-- Prepare for backend development and freelance opportunities
+* Build multiple production-style backend projects
+* Strengthen PostgreSQL and Docker skills
+* Master FastAPI
+* Build automation and reporting systems
+* Learn software engineering best practices
+* Build a strong GitHub portfolio
+* Prepare for remote backend development and freelance opportunities
 
 ---
 
 ## Contact
 
-📫 Email: amitsharma69a@gmail.com
+📫 Email: [amitsharma69a@gmail.com](mailto:amitsharma69a@gmail.com)
