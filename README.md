@@ -4,7 +4,7 @@
 
 🚀 Building Backend, Automation, and Data Engineering Projects from Scratch
 
-📊 Interested in APIs, PostgreSQL, Docker, Automation, and Reporting Systems
+📊 Interested in APIs, PostgreSQL, Docker, Automation, Reporting Systems, and Production-Ready Python Applications
 
 ---
 
@@ -23,6 +23,8 @@
 * Retry Logic
 * Database Transactions
 * Report Generation
+* SMTP Email Automation
+* Python File Handling
 * Automation
 
 ---
@@ -31,7 +33,7 @@
 
 ### 🔹 Multi-Crypto Price Tracker
 
-A production-style Python backend project that fetches real-time cryptocurrency prices from the CoinGecko API, stores them in PostgreSQL running inside Docker, generates reports, logs application activity, and implements retry mechanisms for improved reliability.
+A production-style Python backend application that fetches real-time cryptocurrency prices from the CoinGecko API, stores them in PostgreSQL running inside Docker, generates formatted reports, sends automated email reports, logs application activity, and implements retry mechanisms for improved reliability.
 
 #### Features
 
@@ -43,8 +45,12 @@ A production-style Python backend project that fetches real-time cryptocurrency 
 * Automatic database table creation
 * Environment variable configuration
 * Transaction handling using commit and rollback
-* Report generation
+* Formatted report generation
 * Report export to text files
+* SMTP email integration
+* Secure TLS email authentication
+* Automated report delivery
+* Email attachment support
 * Centralized logging system
 * API retry mechanism
 * API response validation
@@ -60,13 +66,13 @@ A production-style Python backend project that fetches real-time cryptocurrency 
 
 ## Currently Learning
 
-* Email Automation using SMTP
-* Scheduled Jobs (Cron & Task Scheduler)
+* Task Scheduling (Cron & Windows Task Scheduler)
 * Production Configuration
 * Streamlit Dashboards
 * Testing with Pytest
 * FastAPI
 * Backend Project Architecture
+* CI/CD Fundamentals
 
 ---
 
@@ -84,4 +90,4 @@ A production-style Python backend project that fetches real-time cryptocurrency 
 
 ## Contact
 
-📫 Email: [amitsharma69a@gmail.com](mailto:amitsharma69a@gmail.com)
+📫 Email: amitsharma69a@gmail.com
