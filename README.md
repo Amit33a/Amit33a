@@ -1,64 +1,76 @@
 # Hi, I'm Amit 👋
 
-💻 Learning Python Backend Development
+💻 Aspiring Python Backend Developer
 
-🚀 Building Backend, Automation, and Data Engineering Projects from Scratch
+🚀 Building production-style backend applications from scratch
 
-📊 Interested in APIs, PostgreSQL, Docker, Automation, Reporting Systems, and Production-Ready Python Applications
+📊 Interested in Backend Development, Automation, APIs, PostgreSQL, Docker, and Data Engineering
 
 ---
 
 ## Skills
 
+### Programming
+
 * Python
-* PostgreSQL
 * SQL
-* Docker & Docker Compose
-* Git & GitHub
+
+### Backend
+
 * REST APIs
 * Requests
 * Environment Variables
-* Logging
+* Modular Application Design
 * Error Handling
-* Retry Logic
-* Database Transactions
+* Retry Logic & Exponential Backoff
+* Logging
+* File Handling
 * Report Generation
 * SMTP Email Automation
-* Python File Handling
-* Automation
+
+### Database
+
+* PostgreSQL
+* Database Transactions
+* psycopg2
+
+### DevOps & Tools
+
+* Docker
+* Docker Compose
+* Git & GitHub
+* Windows Task Scheduler
 
 ---
 
-## Current Project
+## Featured Project
 
-### 🔹 Multi-Crypto Price Tracker
+### 🔹 Multi Crypto Price Tracker
 
-A production-style Python backend application that fetches real-time cryptocurrency prices from the CoinGecko API, stores them in PostgreSQL running inside Docker, generates formatted reports, sends automated email reports, logs application activity, and implements retry mechanisms for improved reliability.
+A production-style Python backend automation application that:
 
-#### Features
+* Fetches real-time cryptocurrency prices from the CoinGecko REST API
+* Stores historical data in PostgreSQL
+* Runs PostgreSQL inside Docker
+* Generates formatted reports
+* Sends automated email reports with attachments
+* Logs application events to both the console and log files
+* Handles API failures using retry logic and exponential backoff
+* Uses environment-based configuration
+* Follows a modular, production-style project structure
 
-* Fetches Bitcoin, Ethereum, Solana, and Binance Coin prices
-* CoinGecko REST API integration
-* PostgreSQL database integration
-* Dockerized PostgreSQL environment
-* Historical cryptocurrency price storage
-* Automatic database table creation
-* Environment variable configuration
-* Transaction handling using commit and rollback
-* Formatted report generation
-* Report export to text files
-* SMTP email integration
-* Secure TLS email authentication
-* Automated report delivery
-* Email attachment support
-* Centralized logging system
-* API retry mechanism
-* API response validation
-* Timeout and HTTP error handling
-* Safe JSON parsing
-* Modular backend architecture
+### Technologies Used
 
-#### GitHub Repository
+* Python
+* PostgreSQL
+* Docker
+* Requests
+* psycopg2
+* SMTP
+* Logging
+* python-dotenv
+
+### GitHub Repository
 
 👉 https://github.com/Amit33a/multi-crypto-price-tracker
 
@@ -66,25 +78,25 @@ A production-style Python backend application that fetches real-time cryptocurre
 
 ## Currently Learning
 
-* Task Scheduling (Cron & Windows Task Scheduler)
-* Production Configuration
-* Streamlit Dashboards
-* Testing with Pytest
 * FastAPI
-* Backend Project Architecture
-* CI/CD Fundamentals
+* Pytest
+* CI/CD with GitHub Actions
+* Linux Cron Jobs
+* Production Deployment
+* Streamlit Dashboards
+* Software Engineering Best Practices
 
 ---
 
 ## 2026 Goals
 
-* Build multiple production-style backend projects
-* Strengthen PostgreSQL and Docker skills
-* Master FastAPI
+* Build 3–4 production-quality backend projects
+* Become job-ready as a Python Backend Developer
+* Master PostgreSQL and Docker
+* Learn FastAPI and modern backend development
 * Build automation and reporting systems
-* Learn software engineering best practices
-* Build a strong GitHub portfolio
-* Prepare for remote backend development and freelance opportunities
+* Contribute to open-source projects
+* Secure a remote Python backend role
 
 ---
 
