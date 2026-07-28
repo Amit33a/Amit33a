@@ -2,9 +2,9 @@
 
 💻 Aspiring Python Backend Developer
 
-🚀 Building production-style backend applications using Python
+🚀 Building professional Python backend applications with a strong focus on clean code, testing, automation, and modern development practices.
 
-📊 Interested in Backend Development, Automation, REST APIs, PostgreSQL, Docker, Testing, and Data Engineering
+📚 Currently learning backend engineering through hands-on projects and preparing for professional Python Backend Developer roles.
 
 ---
 
@@ -17,17 +17,19 @@
 
 ## Backend Development
 
-* REST APIs
-* Requests
+* REST API Integration
+* HTTP Requests
 * Environment Variables
-* Modular Application Design
+* Modular Application Architecture
+* Configuration Management
 * Error Handling
 * Retry Logic & Exponential Backoff
 * Logging
 * File Handling
 * Report Generation
 * SMTP Email Automation
-* Configuration Management
+* Type Hints
+* Context Managers
 
 ## Database
 
@@ -42,48 +44,63 @@
 * unittest.mock
 * Unit Testing
 * Mocking External Services
+* Code Coverage (pytest-cov)
 
-## DevOps & Tools
+## DevOps & Development Tools
 
 * Docker
 * Docker Compose
 * Git
 * GitHub
+* GitHub Actions
+* Ruff
+* Black
+* isort
+* pre-commit
 * Windows Task Scheduler
 
 ---
 
 # Featured Project
 
-## 🔹 Multi Crypto Price Tracker
+## 🚀 Multi Crypto Price Tracker
 
-A production-style Python backend automation application that:
+A professional Python backend automation application that demonstrates real-world backend development practices.
 
-* Fetches real-time cryptocurrency prices from the CoinGecko REST API.
+### What it does
+
+* Fetches live cryptocurrency prices from the CoinGecko REST API.
 * Stores historical cryptocurrency prices in PostgreSQL.
 * Runs PostgreSQL inside Docker.
 * Generates formatted cryptocurrency reports.
-* Sends automated email reports with attachments.
+* Sends automated email reports with file attachments.
 * Logs application activity to both the console and log files.
-* Handles temporary API failures using retry logic and exponential backoff.
+* Automatically retries failed API requests using exponential backoff.
 * Uses environment-based configuration with `.env`.
-* Includes automated unit tests using pytest and unittest.mock.
-* Follows a modular, production-style backend architecture.
+* Includes automated unit tests with mocked external services.
+* Performs automated code quality checks before every commit.
+* Runs Continuous Integration automatically using GitHub Actions.
 
-### Key Features
+### Highlights
 
 * REST API Integration
 * PostgreSQL Database
-* Dockerized Development Environment
-* Retry & Resilience
-* Email Automation
+* Dockerised Development Environment
+* Retry & Resilience Patterns
+* SMTP Email Automation
 * Windows Task Scheduler Automation
-* Configuration Management
-* Centralized Logging
+* Environment-based Configuration
+* Centralised Logging
 * Unit Testing
-* Production-style Project Structure
+* Code Coverage
+* GitHub Actions CI
+* Ruff Linting
+* Black Formatting
+* isort Import Sorting
+* pre-commit Hooks
+* Professional Project Structure
 
-### Technologies Used
+### Technologies
 
 * Python
 * PostgreSQL
@@ -95,9 +112,13 @@ A production-style Python backend automation application that:
 * EmailMessage
 * pytest
 * unittest.mock
-* Logging
+* pytest-cov
+* Ruff
+* Black
+* isort
+* GitHub Actions
 
-### GitHub Repository
+### Repository
 
 👉 https://github.com/Amit33a/multi-crypto-price-tracker
 
@@ -106,20 +127,23 @@ A production-style Python backend automation application that:
 # Currently Learning
 
 * FastAPI
-* GitHub Actions (CI/CD)
+* Backend System Design
+* Linux
 * Linux Cron Jobs
-* Application Deployment
-* Streamlit
+* Docker Best Practices
+* CI/CD Workflows
+* Cloud Deployment
+* AWS
 * Software Engineering Best Practices
 
 ---
 
 # 2026 Goals
 
-* Build 3–4 production-quality backend projects.
+* Build multiple professional backend portfolio projects.
 * Become job-ready as a Python Backend Developer.
-* Master FastAPI, PostgreSQL, and Docker.
-* Learn CI/CD and deployment workflows.
+* Master FastAPI, PostgreSQL, Docker, and backend architecture.
+* Learn cloud deployment and CI/CD pipelines.
 * Contribute to open-source Python projects.
 * Secure a remote Python Backend Developer role.
 
@@ -127,4 +151,6 @@ A production-style Python backend automation application that:
 
 # Contact
 
-📫 Email: amitsharma69a@gmail.com
+📫 Email: [amitsharma69a@gmail.com](mailto:amitsharma69a@gmail.com)
+
+GitHub: https://github.com/Amit33a
