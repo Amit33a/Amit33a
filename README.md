@@ -1,14 +1,14 @@
 # Hi, I'm Amit 👋
 
-💻 Aspiring Python Backend Developer
+💻 **Aspiring Python Backend Developer**
 
 🚀 Building professional Python backend applications with a strong focus on clean code, testing, automation, and modern development practices.
 
-📚 Currently learning backend engineering through hands-on projects and preparing for professional Python Backend Developer roles.
+📚 Currently developing my backend engineering skills through hands-on projects and preparing for professional Python Backend Developer roles.
 
 ---
 
-# Skills
+# 🛠️ Skills
 
 ## Programming
 
@@ -30,6 +30,7 @@
 * SMTP Email Automation
 * Type Hints
 * Context Managers
+* Dependency Injection
 
 ## Database
 
@@ -44,7 +45,7 @@
 * unittest.mock
 * Unit Testing
 * Mocking External Services
-* Code Coverage (pytest-cov)
+* Code Coverage with pytest-cov
 
 ## DevOps & Development Tools
 
@@ -61,27 +62,27 @@
 
 ---
 
-# Featured Project
+# 🚀 Featured Project
 
-## 🚀 Multi Crypto Price Tracker
+## Multi Crypto Price Tracker
 
-A professional Python backend automation application that demonstrates real-world backend development practices.
+A professional Python backend automation application built to demonstrate real-world backend development practices.
 
 ### What it does
 
 * Fetches live cryptocurrency prices from the CoinGecko REST API.
 * Stores historical cryptocurrency prices in PostgreSQL.
-* Runs PostgreSQL inside Docker.
+* Runs PostgreSQL using Docker.
 * Generates formatted cryptocurrency reports.
 * Sends automated email reports with file attachments.
-* Logs application activity to both the console and log files.
+* Logs application activity to the console and log files.
 * Automatically retries failed API requests using exponential backoff.
 * Uses environment-based configuration with `.env`.
 * Includes automated unit tests with mocked external services.
-* Performs automated code quality checks before every commit.
-* Runs Continuous Integration automatically using GitHub Actions.
+* Performs automated code-quality checks before commits.
+* Runs Continuous Integration using GitHub Actions.
 
-### Highlights
+### Key Engineering Practices
 
 * REST API Integration
 * PostgreSQL Database
@@ -92,13 +93,15 @@ A professional Python backend automation application that demonstrates real-worl
 * Environment-based Configuration
 * Centralised Logging
 * Unit Testing
+* Mocking
 * Code Coverage
+* Dependency Injection
 * GitHub Actions CI
 * Ruff Linting
 * Black Formatting
 * isort Import Sorting
 * pre-commit Hooks
-* Professional Project Structure
+* Modular Backend Architecture
 
 ### Technologies
 
@@ -124,7 +127,7 @@ A professional Python backend automation application that demonstrates real-worl
 
 ---
 
-# Currently Learning
+# 📚 Currently Learning
 
 * FastAPI
 * Backend System Design
@@ -138,19 +141,19 @@ A professional Python backend automation application that demonstrates real-worl
 
 ---
 
-# 2026 Goals
+# 🎯 2026 Goals
 
 * Build multiple professional backend portfolio projects.
 * Become job-ready as a Python Backend Developer.
-* Master FastAPI, PostgreSQL, Docker, and backend architecture.
+* Strengthen my skills in FastAPI, PostgreSQL, Docker, and backend architecture.
 * Learn cloud deployment and CI/CD pipelines.
 * Contribute to open-source Python projects.
 * Secure a remote Python Backend Developer role.
 
 ---
 
-# Contact
+# 📫 Contact
 
-📫 Email: [amitsharma69a@gmail.com](mailto:amitsharma69a@gmail.com)
+**Email:** [amitsharma69a@gmail.com](mailto:amitsharma69a@gmail.com)
 
-GitHub: https://github.com/Amit33a
+**GitHub:** https://github.com/Amit33a
